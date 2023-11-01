@@ -1,0 +1,1 @@
+TODO: Let's create here a bidding system for investment managers to submit ideas for employees to bid their time on.
