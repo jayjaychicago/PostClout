@@ -1,0 +1,19 @@
+An investment thesis has to have:
+
+Short “What”: 140 characters max. E.g. Let’s integrate a Playstation on the main screen (that only works when the car is parked)
+Short “Why”: 140 characters max. People will love it and pay for it when stuck for a 1h recharge on a road trip.
+Success Definition as a single metric and order of magnitude for that metric change at 3 levels (splendid, ok, fail): E.g.
+    Splendidly: $1B yearly revenue (10x success)
+    Ok: $100M yearly revenue (1x success)
+    Fail: Less than $1M yearly revenue (0x success)
+Project is taking bids for a list of teams and jobs within the teams: E.g.
+    50 front end engineers (5 teams of 9 with 1 investment manager each)
+        Team UI rendering (9 back end engineers and 1 investment manager)
+        Team game controllers (9 back end engineers and 1 investment manager)
+        …
+    50 back end engineers (5 teams of 9 with 1 investment manager each)
+    10 Product Managers (...)
+    10 UX designers 
+    5 UX researchers
+    5 Project Managers
+Bid modifiers to incentivize the right teams to form: E.g. 50% for expertise and 50% for prior team work
