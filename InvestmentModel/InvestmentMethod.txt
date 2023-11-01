@@ -1,0 +1,4 @@
+Investors are employees investing their time.
+They estimate their time in dollars based on their understanding of the market and the effort it will take them to complete the task
+e.g. a year of a software engineer doing task X might be $500k.
+They take into account the maintenance work needed after the task is completed
