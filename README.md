@@ -3,7 +3,7 @@ This is the open-source charter of what a "post clout" company could be, where w
 
 Living Post Clout: How to Escape the Context Trap
 
-Have you noticed how it feels like we’re coming apart recently? We’ve all gotten so smart, yet all we work towards is trying to win a race to subordinate each other and earn money and clout as a totem of our success. Is that making us happy? How can we organize - at least at work - to develop both our personal aspirations and happy and fulfilling work relationships? Because if everybody wants to singularly be on top, nobody is.
+Have you noticed how it feels like we’re coming apart recently? We’ve all gotten so smart, yet all we work towards is trying to win a race to subordinate each other and earn money and clout as a totem of our individual success. Is that making us happy? How can we organize - at least at work - to develop both our personal aspirations and happy and fulfilling work relationships? Because if everybody wants to singularly be on top, nobody is.
 We’ve learnt that Clout is everything: Be Rich. Be popular. Be a director. Be a VP. Be a Level 9 executive. Be CEO. Be a Billionaire. Be Steve Jobs… For every context of our lives from high school to retirement, there is a specific trap, with artificial goals, pecking orders, success signaling tokens and an artificial mountaintop: this is the Context Trap.
 Our unquenchable desire to be above others has led us to unwittingly create unhappiness traps: the cult of being someone instead of the happiness of doing something fun together. It’s an untenable fallacy as no one “is” something: we’re multifaceted. The one who reaches the top cannot be seen if all others are head down climbing.
 
