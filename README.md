@@ -2,6 +2,7 @@
 This is the open-source charter of what a "post clout" company could be, where we are incentivized to invest in each others as much as on our own benefit. Go ahead! Edit and comment on this idea!
 
 Read and comment in Google docs here: https://docs.google.com/document/d/1LkMUPGLZB4ZRlbDDC0B_82dqVGpojd1zsK7M1pnvexs/edit
+
 Join our discord server here: https://discord.com/channels/1169686304909435061/1169686305395982438
 
 Living Post Clout: How to Escape the Context Trap
