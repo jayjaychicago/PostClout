@@ -1,5 +1,5 @@
 # PostClout
-This is the open-source charter of what a "post clout" company could be, where we invest in each others. Go ahead! Edit and enrich this charter!
+This is the open-source charter of what a "post clout" company could be, where we are incentivized to invest in each others as much as on our own benefit. Go ahead! Edit and enrich this charter!
 
 Read and comment in Google docs here: https://docs.google.com/document/d/1LkMUPGLZB4ZRlbDDC0B_82dqVGpojd1zsK7M1pnvexs/edit
 
