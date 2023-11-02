@@ -1,5 +1,5 @@
 # PostClout
-The framework of a Post Clout company where we invest in each others. Go ahead! Edit and enrich this charter!
+This is the open-source charter of what a "post clout" company could be, where we invest in each others. Go ahead! Edit and enrich this charter!
 
 Living Post Clout: How to Escape the Context Trap
 
